@@ -4,20 +4,22 @@
 Скриншоты с примерами работы программы
 ---
 
-1. Экрана при первой загрузке
-![Первый скриншот](screenshots/1.PNG)
+1. Экран при первой загрузке
+
+<img src="screenshots/1.PNG" alt="Описание изображения" style="border: 2px solid #ccc;">
+
 
 2. Экран после введённого запроса
-![Второй скриншот](screenshots/2.PNG)
+<img src="screenshots/2.PNG" alt="Описание изображения" style="border: 2px solid #ccc;">
 
 3. Экран после введённого запроса
-![Третий скриншот](screenshots/3.PNG)
+<img src="screenshots/3.PNG" alt="Описание изображения" style="border: 2px solid #ccc;">
 
 4. Пример сохранения истории запросов в таблице
-![Четвёртый скриншот](screenshots/4.PNG)
+<img src="screenshots/4.PNG" alt="Описание изображения" style="border: 2px solid #ccc;">
 
 5. Пример сохранения истории запросов в таблице
-![Пятый скриншот](screenshots/5.PNG)
+<img src="screenshots/5.PNG" alt="Описание изображения" style="border: 2px solid #ccc;">
 
 
 Команда для запуска приложения
